@@ -1,4 +1,4 @@
-combined.json
-train.csv
+*.json
+*.csv
 __pycache__/*
 *.py[cod]
