@@ -1,4 +1,4 @@
-1. data 다운로드 및 전처리 (출처: https://business.juso.go.kr/addrlink/adresInfoProvd/guidance/othbcAdresInfo.do
+1. data 다운로드 및 전처리 (출처: [공개하는주소](https://business.juso.go.kr/addrlink/adresInfoProvd/guidance/othbcAdresInfo.do)
 ```
 sh prepare_data/data-get.sh
 ```
